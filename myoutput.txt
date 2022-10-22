@@ -1,0 +1,21 @@
+total 2592
+drwx------  2 root root               4096 Apr 21  2022 audit
+-rw-rw----  1 root utmp              14976 Oct 21 14:21 btmp
+-rw-rw----  1 root utmp              50304 Oct  2 19:46 btmp.1
+drwxr-xr-x  2 root root               4096 Oct 16 05:58 cups
+drwxr-xr-x  2 root root               4096 Jun  7 00:45 gssproxy
+-rw-r--r--  1 root root               2726 Sep 21 11:57 gufw.log
+drwxr-sr-x+ 4 root systemd-journal    4096 Aug 13 19:28 journal
+-rw-rw-r--  1 root utmp             292584 Oct 17 19:16 lastlog
+drwxr-xr-x  2 root root               4096 Jun  9 13:23 old
+-rw-r--r--  1 root root             516920 Oct 21 16:20 pacman.log
+-rw-r--r--  1 root root              87244 Oct 21 18:16 pacman.PackageKit.log
+drwx------  2 root root               4096 Jul 29 17:33 private
+drwxr-xr-x  2 root root               4096 Jul 27 17:26 samba
+drwxr-xr-x  2 root root              36864 Oct 21 18:00 timeshift
+-rw-rw-r--  1 root utmp             336768 Oct 21 18:19 wtmp
+-rw-rw-r--  1 root utmp            1085952 Oct  8 03:44 wtmp.1
+-rw-r--r--  1 root root              52686 Oct 21 17:45 Xorg.0.log
+-rw-r--r--  1 root root               6631 Oct 21 16:15 Xorg.0.log.old
+-rw-r--r--  1 root root              45978 Oct 21 12:52 Xorg.1.log
+-rw-r--r--  1 root root              45977 Oct 16 10:18 Xorg.1.log.old

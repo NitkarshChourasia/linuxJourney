@@ -1,0 +1,13 @@
+echotextstdin.txt
+erroroutput.txt
+file1.txt
+listdirectory.txt
+myoutput.txt
+printworkingdirectory.txt
+rm
+slowtrain.txt
+someErrorDescriptor.txt
+somefile.txt
+stdErrorInput1test.txt
+stdErrorInput.txt
+stdin.txt

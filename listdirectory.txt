@@ -1,0 +1,7 @@
+echotextstdin.txt
+file1.txt
+listdirectory.txt
+myoutput.txt
+rm
+somefile.txt
+stdin.txt

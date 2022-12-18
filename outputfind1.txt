@@ -1,0 +1,420 @@
+/home/nitkarshc/.config/Code/User/globalStorage/ms-vsliveshare.vsliveshare-audio/electron-4.2.7/dist/snapshot_blob.bin
+/home/nitkarshc/.config/Code - OSS/User/globalStorage/ms-vsliveshare.vsliveshare-audio/electron-4.2.7/dist/snapshot_blob.bin
+/home/nitkarshc/Pictures/snapshot study analysis will have to see B_O_D_ how they works.png
+/home/nitkarshc/Pictures/snapshot.jpg
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotTypes.js
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotter.js
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotterInjected.js
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotRenderer.js
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotStorage.js
+/home/nitkarshc/.vscode/extensions/oderwat.indent-rainbow-8.3.1/node_modules/playwright/lib/server/snapshot/snapshotServer.js
+/home/nitkarshc/Downloads/gitkraken/snapshot_blob.bin
+/home/nitkarshc/Downloads/Git-it-Linux-x64/snapshot_blob.bin
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/24/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/22/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-others.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent-dark/16/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Fluent/scalable/apps/snap-store.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent/24/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent/22/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-others.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-node.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-page.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Fluent/16/actions/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/24/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/22/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-White-Blue/actions/16/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/24/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/22/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Noir-Black-Blue/actions/16/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/24/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/22/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-angle.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze Chameleon Dark/actions/16/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/24/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/22/snap-bounding-box.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-grid-guide-intersections.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-bounding-box-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-node.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-bounding-box-midpoints.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-rotation-center.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-bounding-box-edges.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-midpoint.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-path.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-page.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-guideline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-orthogonal.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-bounding-box-corners.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-text-baseline.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-extension.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-smooth.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-intersection.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-nodes-cusp.svg
+/home/nitkarshc/.local/share/icons/Breeze-Blur-Glassy Dark/actions/16/snap-bounding-box.svg
+/home/nitkarshc/.local/share/duckly/app-linux-x64-1.0.9/snapshot_blob.bin
+/home/nitkarshc/.local/lib/python3.10/site-packages/guiqwt/images/snapshot.png
+/home/nitkarshc/snap
+/home/nitkarshc/.cache/calibre/ev2/f/c1-6rbhesjr/EPUB/images/snapshots.png
+/home/nitkarshc/.cache/JetBrains/JetBrainsClientDist/jbr_jcef-17_0_3-linux-x64-b469.32-ide/jbr/lib/snapshot_blob.bin
+/home/nitkarshc/.cache/yarn/v6/npm-@mdi-svg-6.6.95-334ef718a06889e6a02b6802020f4f35f0ad5adb-integrity/node_modules/@mdi/svg/svg/snapchat.svg
+/home/nitkarshc/.cache/yarn/v6/npm-bootstrap-icons-1.8.1-773c1625bcbf3e86090ea9da4386c2c6459c5582-integrity/node_modules/bootstrap-icons/icons/snapchat.svg
+/home/nitkarshc/.cache/bazel/_bazel_nitkarshc/install/b39f3e16db66640365c31788006a9ee4/embedded_tools/tools/android/emulator/snapshots.img.zip
+/home/nitkarshc/Android/Sdk/emulator/lib/snapshot_service.proto
+/home/nitkarshc/Android/Sdk/emulator/lib/snapshot.proto
+/home/nitkarshc/Android/Sdk/sources/android-33/com/android/server/pm/snapshot

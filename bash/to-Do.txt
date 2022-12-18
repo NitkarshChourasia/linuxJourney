@@ -1,0 +1,5 @@
+should clone the repo.
+Make it as mine.
+In that process, I would be able to learn a little bit markdown language too.
+Would make a .sh file that would make it appear the file as sh.
+Cron everything.

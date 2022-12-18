@@ -1,7 +1,6 @@
-for i in {0..99999}
+for i in {0..999}{a..b}
 do
   for j in {0..199}
-    for k in {a..z}
-  do echo hello >> "$k$i.txt"
-    done
+  do echo Hello >> "$i.txt"
   done
+done
